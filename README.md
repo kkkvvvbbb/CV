@@ -24,7 +24,7 @@
 ### Проект 2 
 Работа с учебным сервисом Яндекс.Маршруты: 
 
-Составление <a href="https://docs.google.com/spreadsheets/d/1yZQbxdyISWvUgJUXfcVBQ6wtzWYUUey1IE-smD742uM/edit#gid=899462569">чек-листов на верстку, функционал окон «Способ оплаты» и «Добавление карты»</a>
+Составление <a href="https://docs.google.com/spreadsheets/d/1yZQbxdyISWvUgJUXfcVBQ6wtzWYUUey1IE-smD742uM/edit#gid=899462569">чек-листов на верстку, функциональность окон «Способ оплаты» и «Добавление карты»</a>
 
 Составление <a href="https://docs.google.com/spreadsheets/d/1yZQbxdyISWvUgJUXfcVBQ6wtzWYUUey1IE-smD742uM/edit#gid=899462569">тест-кейсов на кнопку «Забронировать», логику функциональности бронирования</a>
 
