@@ -47,3 +47,11 @@ Trello, Slack, Zoom, MS Teams.
 Тестирование API через Postman - <a href="https://github.com/kkkvvvbbb/resume/blob/main/Project.postman_collection.json">коллекция</a>
 
 Заведение баг-репортов в Яндекс.Трекере
+
+
+## Образование
+
+Coursera, Python 3 Programming Specialization, University of Michigan
+
+Национальный исследовательский университет "Высшая школа экономики", Москва,
+Факультет коммуникаций, медиа и дизайна, Журналистика данных (магистратура)
