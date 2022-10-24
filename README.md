@@ -1,6 +1,6 @@
 # Кирилл Борискин
 ## QA-engineer
-Я начинающий QA-тестер, прохожу в настоящее время курс по тестированию на Яндекс.Практикуме. 
+Я начинающий QA-тестер, прохожу в настоящее время курс по тестированию на Яндекс.Практикуме. Ищу работу QA-engineer, рассмотрю любые предложения. 
 
 ## Навыки
 
@@ -8,7 +8,9 @@
 
 Создание чек-листов на проверку функциональности, верстки, составление тест-кейсов, заведение баг-репортов, тестирование API, мобильных приложений.
 
-Яндекс.Трекер, Postman, Charles, Android Studio, Figma, HTTP, REST, SOAP, JSON, XML, Python.
+Яндекс.Трекер, Postman, Charles, Android Studio, Figma, HTTP, REST, SOAP, JSON, XML, Python, HTML5.
+
+Trello, Slack, Zoom, MS Teams. 
 
 ## Портфолио
 
@@ -42,6 +44,6 @@
 
 Составление <a href="https://docs.google.com/spreadsheets/d/1dEP81cwL3KMGu8E63SyeajMMtF-_8ljsFfh06T3b6-Y/edit?usp=sharing">чек-листа на тестирование API</a>
 
-Тестирование API через Postman
+Тестирование API через Postman - <a href="https://github.com/kkkvvvbbb/resume/blob/main/Project.postman_collection.json">коллекция</a>
 
 Заведение баг-репортов в Яндекс.Трекере
