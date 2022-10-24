@@ -1,0 +1,177 @@
+{
+	"info": {
+		"_postman_id": "01c91cda-e6c4-4f58-972f-a11ed8fd1ace",
+		"name": "Project",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Добавить продукты в корзину",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"productsList\": [\n        {\n            \"id\": ,\n            \"quantity\": \n        }\n    ]\n}\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://52b737f3-fde1-4bf2-b9e1-197a4d2626f1.serverhub.praktikum-services.ru/api/v1/orders/1",
+					"protocol": "https",
+					"host": [
+						"52b737f3-fde1-4bf2-b9e1-197a4d2626f1",
+						"serverhub",
+						"praktikum-services",
+						"ru"
+					],
+					"path": [
+						"api",
+						"v1",
+						"orders",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Создать корзину",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 1,\n            \"quantity\": 2\n        }\n    ]\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://52b737f3-fde1-4bf2-b9e1-197a4d2626f1.serverhub.praktikum-services.ru/api/v1/orders",
+					"protocol": "https",
+					"host": [
+						"52b737f3-fde1-4bf2-b9e1-197a4d2626f1",
+						"serverhub",
+						"praktikum-services",
+						"ru"
+					],
+					"path": [
+						"api",
+						"v1",
+						"orders"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Получить логи",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://52b737f3-fde1-4bf2-b9e1-197a4d2626f1.serverhub.praktikum-services.ru/api/logs/main",
+					"protocol": "https",
+					"host": [
+						"52b737f3-fde1-4bf2-b9e1-197a4d2626f1",
+						"serverhub",
+						"praktikum-services",
+						"ru"
+					],
+					"path": [
+						"api",
+						"logs",
+						"main"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Получить список продуктов в корзине",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://52b737f3-fde1-4bf2-b9e1-197a4d2626f1.serverhub.praktikum-services.ru/api/v1/orders/1",
+					"protocol": "https",
+					"host": [
+						"52b737f3-fde1-4bf2-b9e1-197a4d2626f1",
+						"serverhub",
+						"praktikum-services",
+						"ru"
+					],
+					"path": [
+						"api",
+						"v1",
+						"orders",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "удаление корзины",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "https://52b737f3-fde1-4bf2-b9e1-197a4d2626f1.serverhub.praktikum-services.ru/api/v1/orders/1",
+					"protocol": "https",
+					"host": [
+						"52b737f3-fde1-4bf2-b9e1-197a4d2626f1",
+						"serverhub",
+						"praktikum-services",
+						"ru"
+					],
+					"path": [
+						"api",
+						"v1",
+						"orders",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Создание набора",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"cardId\": 1, \n    \"name\": \"Набор\" \n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://4c74d7c9-8056-4717-ab87-c786c00d5314.serverhub.praktikum-services.ru/api/v1/kits",
+					"protocol": "https",
+					"host": [
+						"4c74d7c9-8056-4717-ab87-c786c00d5314",
+						"serverhub",
+						"praktikum-services",
+						"ru"
+					],
+					"path": [
+						"api",
+						"v1",
+						"kits"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
