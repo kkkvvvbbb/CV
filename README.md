@@ -4,7 +4,7 @@
 
 **E-mail:** k.boriskin@ya.ru
 
-**Telegram.:** @BoriskinKirill
+**Telegram:** @BoriskinKirill
 
 **Москва**
 
