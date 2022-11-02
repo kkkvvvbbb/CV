@@ -8,7 +8,7 @@
 
 Создание чек-листов на проверку функциональности, верстки, составление тест-кейсов, заведение баг-репортов, тестирование API, мобильных приложений.
 
-Яндекс.Трекер, Postman, Charles, Android Studio, Figma, HTTP, REST, SOAP, JSON, XML, Python, HTML5.
+Яндекс.Трекер, Postman, Charles, Android Studio, Figma, HTTP, REST, SOAP, JSON, XML, Python, HTML5, SQL. 
 
 Trello, Slack, Zoom, MS Teams. 
 
@@ -47,6 +47,11 @@ Trello, Slack, Zoom, MS Teams.
 Тестирование API через Postman - <a href="https://github.com/kkkvvvbbb/resume/blob/main/Project.postman_collection.json">коллекция</a>
 
 Заведение баг-репортов в Яндекс.Трекере
+
+### Проект 5
+
+Работа с <a href="https://docs.google.com/document/d/1-LCdBjVELRPB9iJyKpAQp5MMfISWOJ-P4ZLisryrNPw/edit?usp=sharing">терминалом, составление SQL-запросов</a>.
+
 
 
 ## Образование
