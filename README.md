@@ -17,7 +17,7 @@
 
 Создание чек-листов на проверку функциональности, верстки, составление тест-кейсов, заведение баг-репортов, тестирование API, мобильных приложений.
 
-Яндекс.Трекер, Postman, Charles, Android Studio, Figma, HTTP, REST, SOAP, JSON, XML, Python, HTML5, SQL (join). 
+Яндекс.Трекер, Postman, Charles, Android Studio, Figma, HTTP, REST, SOAP, JSON, XML, Python, JavaScript, NodeJS, HTML5, SQL (join). 
 
 Trello, Slack, Zoom, MS Teams. 
 
