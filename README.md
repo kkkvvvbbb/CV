@@ -83,6 +83,9 @@
 
 Работа с <a href="https://docs.google.com/document/d/1-LCdBjVELRPB9iJyKpAQp5MMfISWOJ-P4ZLisryrNPw/edit?usp=sharing">терминалом, составление SQL-запросов</a>.
 
+### Баг-репорты
+
+<a href="https://kkkvvvbbb.youtrack.cloud/issues?q=%D1%82%D0%B5%D0%B3:%20Diploma">Примеры баг-репортов</a> на YouTrack.
 
 
 ## Образование
