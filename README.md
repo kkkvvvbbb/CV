@@ -97,7 +97,11 @@ Agile, Taiga, Trello, Пачка, Slack, Zoom, MS Teams, GitLab. Английс�
 
 ## Образование и курсы
 
+2023, edX, Automated Software Testing: Unit Testing, Coverage Criteria and Design for Testability
+
 2023, JavaScript Basics
+
+2023, Introduction to Java
 
 2023, Java Programming: Solving Problems with Software
 
