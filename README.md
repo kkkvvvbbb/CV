@@ -81,6 +81,15 @@ Agile, Taiga, Trello, Пачка, Slack, Zoom, MS Teams, GitLab. Английс�
 
 Работа с <a href="https://docs.google.com/document/d/1-LCdBjVELRPB9iJyKpAQp5MMfISWOJ-P4ZLisryrNPw/edit?usp=sharing">терминалом, составление SQL-запросов</a>.
 
+### Проект 6
+
+<a href="https://docs.google.com/spreadsheets/d/1yXbhpYePsZw412hWcSUDadvBxMC_OeWnKLlsWxQ5Lw4/edit?usp=sharing">Чек-лист</a> на форму просмотра новостей в мобильном приложении. 
+
+### Проект 7
+
+<a href="https://docs.google.com/spreadsheets/d/1YtxXQZk6bwRS0-1Puaus9ZGHAQHmBOBMcl2Cudzmk7s/edit?usp=sharing">Тест-кейсы</a> на модуль выдачи поисковых систем «Яндекса» (колдунщик). 
+
+
 ### Баг-репорты
 
 <a href="https://kkkvvvbbb.youtrack.cloud/issues?q=%D1%82%D0%B5%D0%B3:%20Diploma">Примеры баг-репортов</a> на YouTrack.
