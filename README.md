@@ -95,7 +95,7 @@ Agile, Taiga, Trello, Пачка, Slack, Zoom, MS Teams, GitLab. Английс�
 <a href="https://kkkvvvbbb.youtrack.cloud/issues?q=%D1%82%D0%B5%D0%B3:%20Diploma">Примеры баг-репортов</a> на YouTrack.
 
 
-## Образование
+## Образование и курсы
 
 2023, JavaScript Basics
 
