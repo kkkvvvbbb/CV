@@ -89,6 +89,8 @@ Agile, Taiga, Trello, Пачка, Slack, Zoom, MS Teams, GitLab. Английс�
 
 <a href="https://docs.google.com/spreadsheets/d/1q9j45TGVfyKHPbieAlF2j--3FXFkZJP35g5R5Nbk-Eg/edit?usp=sharing">Чек-лист</a> на форму авторизации. 
 
+<a href="https://docs.google.com/spreadsheets/d/1bRHzP3mEpxi88x7jb-7oofqgcAhWJ9plk4llv1IzOuk/edit?usp=sharing">Тест-кейс</a>, проверяющий, что искомое слово находится на первой позиции поисковой выдачи. 
+
 
 ### Баг-репорты
 
