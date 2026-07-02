@@ -1,0 +1,112 @@
+# =============================================================================
+# PYTHON
+# =============================================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+.env.local
+.env.*.local
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+.eggs/
+wheels/
+
+# Testing & coverage
+.pytest_cache/
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+.tox/
+.nox/
+nosetests.xml
+pytest.xml
+
+# Type checkers
+.mypy_cache/
+.dmypy.json
+.pytype/
+.pyre/
+
+# =============================================================================
+# ENVIRONMENT & SECRETS
+# =============================================================================
+.env
+.env.*
+!.env.example
+!.env.template
+*.pem
+*.key
+*.p12
+*.pfx
+secrets/
+credentials/
+**/.env
+
+# =============================================================================
+# DATABASES & MIGRATIONS (local)
+# =============================================================================
+*.sqlite3
+*.db
+*.db-shm
+*.db-wal
+dump.sql
+*.dump
+
+# =============================================================================
+# LOGS & TEMP
+# =============================================================================
+*.log
+*.log.*
+logs/
+tmp/
+temp/
+.tmp/
+deploy/esdata
+**/esdata
+
+# =============================================================================
+# OS
+# =============================================================================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# =============================================================================
+# IDEs & EDITORS
+# =============================================================================
+# JetBrains (PyCharm, IntelliJ, etc.)
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Vim / Emacs
+*.swp
+*.swo
+*.swn
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+Session.vim
+.netrwhist
+
+compose.override.yml
